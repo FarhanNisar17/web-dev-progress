@@ -11,3 +11,4 @@
 | 03 | Flexbox | [View Demo](https://farhannisar17.github.io/web-dev-progress/03%20Flexbox-main) |
 | 04 | CSS Portfolio | [View Demo](https://farhannisar17.github.io/web-dev-progress/04%20CSS-Portfolio-main) |
 | 05 | Dice Roll | [View Demo](https://farhannisar17.github.io/web-dev-progress/05%20Dice-Roll-main) |
+| 06 | Score Keeper | [View Demo](https://farhannisar17.github.io/web-dev-progress/06%20Score-Keeper-main/) |
